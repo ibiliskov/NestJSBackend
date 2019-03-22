@@ -51,7 +51,7 @@ Use [Postman](https://www.getpostman.com/) or [Insomnia](https://insomnia.rest/)
 
 - Create new user  
 `POST /users`    
-```json  
+```typescript  
 {
   user: {
     firstName: string,
